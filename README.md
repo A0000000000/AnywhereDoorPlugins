@@ -5,3 +5,4 @@
 ## 插件列表
 * Aria2插件实现: https://github.com/A0000000000/anywhere-door-plugin-aria2
 * Glances插件实现: https://github.com/A0000000000/anywhere-door-plugin-glances
+* PVE插件实现: https://github.com/A0000000000/anywhere-door-plugin-pve
